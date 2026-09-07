@@ -1,0 +1,6 @@
+{
+  "name": "AgentBot Commander",
+  "description": "Multi-Agent System Orchestrator Control Panel powered by Gemini API and Function Calling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
